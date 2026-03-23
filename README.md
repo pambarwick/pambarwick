@@ -34,10 +34,9 @@ Over 6+ years I've gone from intern to building automation frameworks from scrat
 
 | Repo | What it is |
 |------|-----------|
-| [playwright-ts-framework](https://github.com/pambarwick/playwright-ts-framework) | A full E2E framework built with Playwright and TypeScript, page objects, fixtures, API tests, CI-ready |
-| [cypress-suite](https://github.com/pambarwick/cypress-suite) | Cypress test suite with custom commands, reusable utilities, and real-world patterns |
-| [qa-templates](https://github.com/pambarwick/qa-templates) | The QA docs I actually use: test plans, bug reports, pre-release checklists, API testing guides |
-
+| [qa-templates](https://github.com/pambarwick/qa-templates) | The QA docs I use: test plans, bug reports, pre-release checklists, API testing guides |
+| [playwright-ts-framework] | In progress |
+| [cypress-suite](https://github.com/pambarwick/cypress-suite) | In progress |
 ---
 
 ## 🌱 Right now
