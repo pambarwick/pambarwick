@@ -1,6 +1,6 @@
-# Hey, I'm Pam 👋
+# Hey, I'm Pam! 👋
 
-QA Engineer · I care deeply about shipping things that work, and things that matter.
+QA Engineer with 7+ years of experience across manual, automation, and API testing. I work with Cypress, Playwright, Postman, and TypeScript, and I have a strong background in fintech and legaltech. I'm passionate about quality, I actively use AI to improve testing workflows, and I love being part of teams that are shipping meaningful products.
 
 🇿🇦 Cape Town → 🇺🇸 Charleston, SC
 
@@ -9,23 +9,29 @@ QA Engineer · I care deeply about shipping things that work, and things that ma
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white)
+![TestRail](https://img.shields.io/badge/TestRail-65C179?style=flat&logoColor=white)
 ![ISTQB](https://img.shields.io/badge/ISTQB_Certified-7C3AED?style=flat)
 
 ---
 
 ## 🙋‍♀️ A little about me
 
-I grew up in **Cape Town, South Africa** and now call **Charleston, SC** home. My career has taken me through fintech and legaltech, two industries where the stakes are real. When someone's payment fails or a family can't get answers about their legal case, that's not just a bug. That's a person affected. That's why I take quality personally.
+I grew up in **Cape Town, South Africa** and now call **Charleston, SC** home.
 
-Over 6+ years I've gone from intern to building automation frameworks from scratch, creating AI-powered QA workflows, and mentoring junior engineers. I love being the person a team actually relies on, not just to find bugs, but to help ship things everyone's proud of.
+I've spent my career in fintech and legaltech and I genuinely love what I do. Quality matters to me, not just as a job but because I care about the products I work on and the people using them.
+
+Most recently I was a QA Specialist at Case Status, a legaltech platform used by law firms across the US. Before that I spent over two years as a QA Engineer at Peach Payments in fintech. I enjoy the hands-on side of QA and I'm always looking to grow and learn.
+
+Outside of work I love being close to the ocean, spending time with animals, and making the most of every moment with my family. 🌊🐾
 
 ---
 
 ## 💡 How I work
 
 - **I get involved early.** The best bugs are the ones caught before a line of code is written, in the requirements.
-- **I build frameworks, not just tests.** Maintainable, scalable automation that teams can actually trust.
-- **I speak both languages.** Technical enough to dig into APIs and SQL, collaborative enough to work closely with product and dev.
+- **I build frameworks, not just tests.** I built a Playwright + TypeScript framework from scratch at Case Status and maintained Cypress suites at Peach Payments.
+- **I use AI in my workflow.** I've worked with Claude AI Skills integrated into Playwright for things like code review and bug reports. It makes me faster at the repetitive stuff so I can focus on what actually needs judgement.
 - **I care about the why.** I want to work on products that genuinely help people, and that drives everything I do.
 
 ---
@@ -34,14 +40,16 @@ Over 6+ years I've gone from intern to building automation frameworks from scrat
 
 | Repo | What it is |
 |------|-----------|
-| [qa-templates](https://github.com/pambarwick/qa-templates) | The QA docs I use: test plans, bug reports, pre-release checklists, API testing guides |
-| [playwright-ts-framework] | In progress |
-| [cypress-suite](https://github.com/pambarwick/cypress-suite) | In progress |
+| [qa-templates](https://github.com/pambarwick/qa-templates) | The QA docs I actually use: test plans, bug reports, pre-release checklists, API testing guides |
+| [playwright-ts-framework] | In progress — Playwright + TypeScript framework with POM, fixtures, and CI/CD integration |
+| [cypress-suite] | In progress — Cypress test suite with custom commands and reusable utilities |
+
 ---
 
 ## 🌱 Right now
 
 - Open to **remote QA roles** and opportunities in **Charleston, SC**
+- Available immediately
 
 ---
 
