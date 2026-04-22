@@ -23,7 +23,7 @@ I've spent my career in fintech and legaltech and I genuinely love what I do. Qu
 
 Most recently I was a QA Specialist at Case Status, a legaltech platform used by law firms across the US. Before that I spent over two years as a QA Engineer at Peach Payments in fintech. I enjoy the hands-on side of QA and I'm always looking to grow and learn.
 
-Outside of work I love being close to the ocean, spending time with animals, and making the most of every moment with my family. 🌊🐾
+Outside of work I love being close to the ocean, kayaking, fishing, and making the most of every moment with my family. 🌊
 
 ---
 
