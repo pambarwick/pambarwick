@@ -39,10 +39,10 @@ Outside of work I love being close to the ocean, kayaking, fishing, and making t
 ## 📂 What's in this GitHub
 
 | Repo | What it is |
-|------|-----------|
+|------|------------|
 | [qa-templates](https://github.com/pambarwick/qa-templates) | The QA docs I actually use: test plans, bug reports, pre-release checklists, API testing guides |
-| [playwright-ts-framework] | In progress — Playwright + TypeScript framework with POM, fixtures, and CI/CD integration |
-| [cypress-suite] | In progress — Cypress test suite with custom commands and reusable utilities |
+| [playwright-ts-framework](https://github.com/pambarwick/playwright-ts-framework) | In progress — Playwright + TypeScript framework with POM, fixtures, and CI/CD integration |
+| [cypress-suite](https://github.com/pambarwick/cypress-suite) | In progress — Cypress test suite with custom commands and reusable utilities |
 
 ---
 
