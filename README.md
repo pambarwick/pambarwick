@@ -17,7 +17,7 @@ QA Engineer with 7+ years of experience across manual, automation, and API testi
 
 ## 🙋‍♀️ A little about me
 
-I grew up in **Cape Town, South Africa** and now call **Charleston, SC** home.
+I grew up in **Cape Town, South Africa** and now call **Charleston, South Carolina** home.
 
 I've spent my career in fintech and legaltech and I genuinely love what I do. Quality matters to me, not just as a job but because I care about the products I work on and the people using them.
 
